@@ -1,3 +1,3 @@
-# Projects
+# San Diego Machine Learning
 
-Folder covering data science and machine learning projects
+San Diego Police Data Machine Learning Model
